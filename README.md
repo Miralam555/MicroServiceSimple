@@ -1,5 +1,4 @@
 # MicroServiceSagaPatternChoreography
-# Microservices E-Commerce Project
 
 A comprehensive microservices-based e-commerce solution built with .NET 8.0, featuring distributed architecture with multiple databases and message queuing.
 
